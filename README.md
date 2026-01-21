@@ -73,28 +73,6 @@ The dataset contains **9,000+ transactions** with the following fields:
 - **Seaborn** - Statistical graphics
 - **Plotly** - Interactive visualizations
 
-## 🚀 How to Run
-
-1. **Clone or navigate to the project directory**:
-   ```bash
-   cd "Superstore EDA"
-   ```
-
-2. **Install required dependencies**:
-   ```bash
-   pip install pandas numpy matplotlib seaborn plotly jupyter
-   ```
-
-3. **Launch Jupyter Notebook**:
-   ```bash
-   jupyter notebook superstore_eda_final.ipynb
-   ```
-
-4. **Run the notebook**:
-   - Open the notebook in your browser
-   - Run cells sequentially (Shift + Enter)
-   - Interactive Plotly charts will display inline
-
 ## 💡 Key Business Insights
 
 ### 🔥 Top Revenue Products
